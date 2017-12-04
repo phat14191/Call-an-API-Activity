@@ -5,7 +5,7 @@ Understanding JSON, AJAX, and calling an API .
  Type Github user name, click the button, it will load your profile picture, information on Github and showing some followers.
 
 ## Screenshots
-![Images](https://s3-us-west-1.amazonaws.com/phat14191/API+Project.png)
+ <img src="https://s3-us-west-1.amazonaws.com/phat14191/API2.png" width="400x"/>
 
 ## Feel free to clone and run it:
 1) git clone https://github.com/phat14191/Call-an-API-Activity
