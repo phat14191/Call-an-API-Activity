@@ -6,4 +6,3 @@ Feel free to clone and run it.
 2) open folder.
 3) run jsonactivity.html.
 4) type your github account.
-5) enjoy it
